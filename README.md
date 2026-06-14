@@ -5,14 +5,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 I’m currently working on Manual Testing Projects and building my QA portfolio
+
+👯 I’m looking to collaborate on Software Testing and QA Projects
+
+🤝 I’m looking for help with Test Automation and Python
+
+🌱 I’m currently learning Python, SQL, Git & GitHub
+
+💬 Ask me about Manual Testing, Jira, Postman, and API Testing
+
+⚡ Fun fact: I enjoy finding bugs and improving software quality
+
 -->
 
 ## 🌐 Socials:
