@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there ,👋💫  I'm Tripti Sharma
+
+🎓 B.Tech Information Technology Graduate from India
 
 <!--
 **triptisharma09/triptisharma09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
